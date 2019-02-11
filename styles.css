@@ -1,0 +1,27 @@
+.type.storage.arrow.function {
+  font-family: "Fira Code";
+}
+/*
+.decorator.name,
+.decorator.punctuation:not(.block),
+.import.keyword {
+  font-family: "Operator Mono";
+  font-size: 18.333px;
+  font-style: italic;
+}*/
+
+.mtk9.mtki {
+  font-style: normal;
+}
+
+.mtk6.mtki {
+  font-family: "Operator Mono";
+  font-size: 18.333px;
+  font-style: italic;
+}
+
+.comment:not(.punctuation) {
+  font-family: "Operator Mono";
+  font-size: 18.333px;
+  font-style: italic;
+}
